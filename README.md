@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello! 👋
+
+Hi! I'm César! I am a software engineer that is passionate about a lot of stuff that has nothing to do with software engineering 😊.
+
+I work for @automattic
 
 <!--
 **ctarda/ctarda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
